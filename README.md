@@ -6,3 +6,16 @@ For running this application you need to install shiny on your instance of R. pa
 After succesfully installing shiny library run the following command in your console:
 
 runGitHub( "WorldMusic", "arrazolan")
+
+
+if this not works probably try installing the following libraries:
+
+library(readxl)
+library(spotifyr)
+library(dplyr)
+library(RColorBrewer)
+library(plotly)
+library(rworldmap)
+library(shiny)
+library(shinythemes)
+library(sp)
