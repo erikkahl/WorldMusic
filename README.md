@@ -20,4 +20,4 @@ library(shiny)
 library(shinythemes)
 library(sp)
 
-UPDATE: for macusers this program will probably not work, however try installing xquartz library
+UPDATE: for macOS users this program will probably not work, however try installing xquartz library
