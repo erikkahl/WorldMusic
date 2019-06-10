@@ -5,8 +5,9 @@ account: arrazolan
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 973806
-bundleId: 2142252
+bundleId: 2143208
 url: https://arrazolan.shinyapps.io/MusicOfTheWorld/
-when: 1560164369.27809
+when: 1560189580.5809
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: backEndCronSpotifyRetrieval.R|README.md|URICountries.xlsx
