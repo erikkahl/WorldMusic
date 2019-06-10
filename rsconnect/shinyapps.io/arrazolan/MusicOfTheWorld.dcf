@@ -1,0 +1,12 @@
+name: MusicOfTheWorld
+title: MusicOfTheWorld
+username:
+account: arrazolan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 973806
+bundleId: 2142252
+url: https://arrazolan.shinyapps.io/MusicOfTheWorld/
+when: 1560164369.27809
+asMultiple: FALSE
+asStatic: FALSE
