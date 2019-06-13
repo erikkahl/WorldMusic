@@ -88,7 +88,7 @@ if (interactive()){
                                Liveness= mapCountryData (sPDF, 
                                                          nameColumnToPlot="Liveness", 
                                                          catMethod="fixedWidth", 
-                                                         colourPalette = brewer.pal (7,"RdPu") ), 
+                                                         colourPalette = brewer.pal (7,"Blues") ), 
                                Instrumentalness= mapCountryData (sPDF, 
                                                                  nameColumnToPlot="Instrumentalness", 
                                                                  catMethod="fixedWidth", 
